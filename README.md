@@ -5,6 +5,8 @@
 A university website designed to provide essential information for prospective students. Built with **HTML** and **CSS**, the website offers smooth navigation and interactive features using **React Scroll**.  
 
 ## Features  
+- **Navigation Bar**:  
+  - Built with **React Scroll** for smooth scrolling and easy access to different sections.  
 
 - **Home Section**:  
   - Welcomes visitors with an overview of the university's mission and highlights.  
@@ -24,8 +26,6 @@ A university website designed to provide essential information for prospective s
 - **Contact Us Section**:  
   - Integrates **Web3Forms API** to allow users to send inquiries directly to the university's email.  
 
-- **Navigation Bar**:  
-  - Built with **React Scroll** for smooth scrolling and easy access to different sections.  
 
 ## Programming Languages and Tools Used  
 
